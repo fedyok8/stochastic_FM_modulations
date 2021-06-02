@@ -161,7 +161,7 @@ myplot(sig, 5, 'fmodany');
 // K=1 : constant group delay
 N=128;
 sig=gdpower(N,1);
-myplot(sig, 5, 'gdpower-K0');
+myplot(sig, 5, 'gdpower-K1');
 
 //gdpower
 // K=2 : linear group delay

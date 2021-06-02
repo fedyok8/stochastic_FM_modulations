@@ -70,3 +70,8 @@ input2=gdpower-K2+N.png
 input1=gdpower-K2.png
 output=splitted_gdpower-K2.png
 montage $input1 $input2 -tile 1x2 -geometry +0+0 "${output_dir_name}${output}"
+
+input2=gdpower-K1+N.png
+input1=gdpower-K1.png
+output=splitted_gdpower-K1.png
+montage $input1 $input2 -tile 1x2 -geometry +0+0 "${output_dir_name}${output}"
