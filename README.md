@@ -20,7 +20,7 @@ Frequency modulation of signals:
 
 
 
-## udes tools:
+## used tools:
 ### scilab-6.0.2
 cross-platform numerical computational package \
 https://www.scilab.org/download/6.0.2
