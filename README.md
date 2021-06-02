@@ -1,4 +1,6 @@
-Space-time analysis of stochastic structures
+# Space-time analysis of stochastic structures
+## Content
+### stochastic_fm.sci
 Frequency modulation of signals:
 
 1. fmconst — Signal with constant frequency modulation,
@@ -10,10 +12,23 @@ Frequency modulation of signals:
 7. fmsin — Signal with sinusoidal frequency modulation,
 8. gdpower — Signal with power-law group delay.
 
-scilab-6.0.2
-cross-platform numerical computational package:
+### stochastic_synthesis.sci
+1. Synthesis of a mono-component non stationary signal
+2. Multi-component non stationary signals 
+
+###
+
+
+
+## udes tools:
+### scilab-6.0.2
+cross-platform numerical computational package \
 https://www.scilab.org/download/6.0.2
 
-Time Frequency Toolbox
-Version: 2.0.2
+### Time Frequency Toolbox
+Version: 2.0.2 \
 https://atoms.scilab.org/toolboxes/stftb
+
+## Example of the resulting graph
+
+![Alt text](./plots/splitted/splitted_fmsin-simpl.png "Title")
